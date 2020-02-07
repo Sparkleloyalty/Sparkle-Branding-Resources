@@ -5,9 +5,16 @@ If you have questions regarding the resources or their usage, or you wish to ask
 
 #### What’s inside
 
-###### Main Logo folder
-* Sparkle Loyalty Logo (Small 1x) SVG and PNG format
-* Sparkle Loyalty Logo (Large 2x) SVG and PNG format
+###### Primary Logo folder
+* Sparkle Loyalty logo (Small 1x) in PNG format
+* Sparkle Loyalty logo (Large 2x) in PNG format
+* Sparkle Loyalty logo in SVG format
+
+
+###### Social Profile Logo folder
+* Sparkle Loyalty profile image (Small 1x) in PNG format
+* Sparkle Loyalty profile image (Large 2x) in PNG format
+* Sparkle Loyalty profile image in SVG format
 
 
 
